@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Chanchal Prajapati 👋
 
-<!--
-**chanchalprajapati1457-design/chanchalprajapati1457-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python | AI & Open Source | Learning by building
 
-Here are some ideas to get you started:
+I'm a developer from Bhopal, learning AI engineering and contributing to open source.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages:** Python, JavaScript, HTML, CSS
+- **Stack:** MEAN (MongoDB, Express, Angular, Node.js)
+- **Currently learning:** AI engineering, open-source workflows (Git, PRs, issues)
+
+## 🚀 Projects
+- [chatshare](https://github.com/chanchalprajapati1457-design/chatshare): full-stack image sharing social media app built with the MEAN stack
+
+## 🌱 Open Source
+- Made 2 merged pull requests to first-contributions (learning Git and the PR workflow)
+- Exploring Python security tooling and AI projects
+
+## 📫 Connect
+- LinkedIn: [chanchal-prajapati](https://www.linkedin.com/in/chanchal-prajapati)
+- Coding profiles: [CodeChef](https://www.codechef.com/users/anya_algo) | [LeetCode](https://leetcode.com/u/pwCFqvRnsx/) | [HackerEarth](https://hackerearth.com/@chanchalrprajapati1457/)
