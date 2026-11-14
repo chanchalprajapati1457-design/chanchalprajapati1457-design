@@ -11,6 +11,7 @@ I'm a developer from Bhopal, learning AI engineering and contributing to open so
 
 ## 🚀 Projects
 - [chatshare](https://github.com/chanchalprajapati1457-design/chatshare): full-stack image sharing social media app built with the MEAN stack
+-  [DSA-solutions](https://github.com/chanchalprajapati1457-design/DSA-solutions): my Python solutions to LeetCode problems
 
 ## 🌱 Open Source
 - Made 2 merged pull requests to first-contributions (learning Git and the PR workflow)
